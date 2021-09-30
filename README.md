@@ -8,9 +8,6 @@ HTTPMON repo is designed to monitor Prometheus metrics API from external service
 
 ![Diagram](https://github.com/mhharsh/httpmon/blob/master/httpmon_architecture.png)
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
 
 ### Deployment
 The deployment of httpmon has been tested on minikube.Please ensure you have the following things setup before proceeding:
