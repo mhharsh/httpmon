@@ -6,6 +6,8 @@ HTTPMON repo is designed to monitor Prometheus metrics API from external service
 ### Architecture
 
 
+![Diagram](https://github.com/mhharsh/httpmon/blob/master/httpmon_architecture.png)
+
   - Type some Markdown on the left
   - See HTML in the right
   - Magic
@@ -93,5 +95,5 @@ Add prometheus as data source with service url as: http://prometheus-kube-promet
 
 Create dashboard.
 
-Sample Dashboard:
+![Grafana Metrics Dashboard](https://github.com/mhharsh/httpmon/blob/master/grafana_dashboard.png)
 
